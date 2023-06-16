@@ -1,0 +1,1 @@
+começa pelo 6, há 9 arestas
